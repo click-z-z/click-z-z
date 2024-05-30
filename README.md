@@ -1,6 +1,6 @@
 # 🎉 Welcome to Clickzz Computer Club! 🎉
 
-Clickzz is a vibrant computer club based in [CMS COLLEGE OF ENGINEERING AND TECHNOLOGY]. We are a community of tech enthusiasts who are passionate about learning and sharing knowledge about programming, machine learning, cloud services, and more.
+Clickzz is a vibrant computer club based in [ CMS COLLEGE OF ENGINEERING AND TECHNOLOGY ]. We are a community of tech enthusiasts who are passionate about learning and sharing knowledge about programming, machine learning, cloud services, and more.
 
 ## 🚀 Our Mission
 
@@ -26,7 +26,7 @@ We welcome all students, regardless of their degree or experience in tech. If yo
 
 ## 📧 Contact Us
 
-For any queries or suggestions, please drop us an email at [Your Email Address].
+For any queries or suggestions, please drop us an email at [ clickzz2k24@gmail.com ].
 
 Let's code, learn, and grow together!
 
